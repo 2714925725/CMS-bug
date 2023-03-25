@@ -1,4 +1,4 @@
-BUG_Auth:mengleng
+BUG_Author:mengleng
 
 Vulnerability File: /dayrui/My/View/main.html
 
